@@ -1,51 +1,22 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# ⚡ IA Generativa Aplicada à Elétrica Industrial
 
-## 🚀 Introdução
+## 📋 Sobre o Projeto
+Projeto desenvolvido no Lab DIO "Natty or Not" — explorando como a Inteligência Artificial Generativa pode acelerar o aprendizado e a documentação de elétrica e instrumentação industrial.
 
-> Woooow! Look at this 👀
+## 🔧 Tecnologias Utilizadas
+- **ChatGPT** — explicações técnicas, parâmetros de inversores, motores e soft-starters
+- **IA de Imagem** — criação de diagramas e ilustrações de circuitos
+- **Conhecimento prático** — 7+ anos de experiência em elétrica industrial
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+## ⚙️ O que foi criado
+- Explicação detalhada de inversores de frequência (WEG CFW11)
+- Comparação prática: motor 4 polos × 6 polos
+- Análise de parâmetros e ajustes de torque
+- Diagrama ilustrativo de funcionamento
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## 📌 Conclusão
+A IA Generativa funciona como um "assistente de memória" — organiza, explica e visualiza o conhecimento técnico de forma rápida e clara, sem substituir a experiência prática.
 
-### Objetivos
+---
+**Renê Pereira Quintino** — Técnico em Elétrica e Instrumentação ⚡
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
